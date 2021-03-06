@@ -1,0 +1,16 @@
+.container {
+    h1>span>small {
+        font-weight: lighter;
+        font-size: large;
+        font-style: italic;
+        color: rgba(255, 255, 0, 0.7);
+    }
+
+    h1 {
+        color: yellow;
+    }
+
+    p {
+        white-space: pre-line;
+    }
+}
